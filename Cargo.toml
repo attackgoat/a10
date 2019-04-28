@@ -1,0 +1,7 @@
+[package]
+name = "a10"
+version = "0.1.0"
+authors = ["John Wells"]
+edition = "2018"
+
+[dependencies]
